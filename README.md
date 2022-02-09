@@ -1,2 +1,4 @@
-# Programaci-n-de-Computadores-2021-2
-:D
+# Creadores
+- Zharick Pinzon Salamanca                     
+- Andrés Santiago Cañón
+- Mateo Bustos Aguilar
